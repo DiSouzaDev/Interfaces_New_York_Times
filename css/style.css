@@ -1,0 +1,16 @@
+p{
+    padding: 2px;
+}
+
+body{
+    background: rgb(233, 233, 233);
+}
+
+.img{
+    width: 1000px;
+    height: 500px;
+    max-width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
