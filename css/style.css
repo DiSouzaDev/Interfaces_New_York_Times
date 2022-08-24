@@ -1,16 +1,14 @@
-p{
-    padding: 2px;
+.p1{
+    border: 1px black solid;
 }
 
 body{
-    background: rgb(233, 233, 233);
+    background: rgb(209, 209, 209);
 }
 
 .img{
     width: 1000px;
     height: 500px;
     max-width: 100%;
-    justify-content: center;
     display: flex;
-    align-items: center;
 }
